@@ -15,12 +15,12 @@
 
 	<!-- Versioning -->
 	<groupId>gr.codelearn</groupId>
-	<artifactId>java-path-spring-ed-hackathlon</artifactId>
+	<artifactId>java-path-spring-ed-hackathon</artifactId>
 	<version>2022.1.0</version>
 
 	<!-- Meta-data -->
 	<name>[${project.artifactId}]</name>
-	<description>Introduction to Spring and Spring Boot, Hackathlon</description>
+	<description>Introduction to Spring and Spring Boot, Hackathon</description>
 	<organization>
 		<name>Code.Learn by Code.Hub</name>
 		<url>https://www.codehub.gr/codelearn/</url>

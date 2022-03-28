@@ -1,3 +1,3 @@
-## Code.Learn - European Dynamics, Introduction to Spring & Spring Boot, Hackathlon
+## Code.Learn - European Dynamics, Introduction to Spring & Spring Boot, Hackathon
 
-This project hosts all source code related with the midseason hackathlon. 
+This project hosts all source code related with the midseason hackathon. 
