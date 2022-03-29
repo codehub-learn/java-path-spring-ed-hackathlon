@@ -31,4 +31,11 @@ public class Activity {
 
 	@Column(precision = 10, scale = 2, nullable = false)
 	private BigDecimal fee;
+
+	public Activity(final Content content, final Author author, final BigDecimal fee) {
+		this.key = new ActivityKey(content.getId(), author.getId());
+		this.content = content;
+		this.author = author;
+		this.fee = fee;
+	}
 }
